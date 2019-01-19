@@ -7,7 +7,7 @@ public class Enum {
         THURSDAY,
         FRIDAY,
         SATURDAY,
-        SUNDAY
+        SUNDAY,
     }
     public static void main(String[] args) {
 
