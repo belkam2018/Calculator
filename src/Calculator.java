@@ -26,6 +26,7 @@ public class Calculator {
         
         multiply first = new multiply();
         first(10,20);
+        substract(49,66);
 
     }
 }
