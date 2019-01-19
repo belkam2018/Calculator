@@ -17,7 +17,7 @@ public class Calculator {
     public static double multiply(double num1, double num2) {
         return num1 * num2;
     }
-
+ // rem method
     public static double rem(double num1, double num2) {
         return num1 % num2;
     }
@@ -27,6 +27,7 @@ public class Calculator {
         multiply first = new multiply();
         first(10,20);
         substract(49,66);
+        add(55,67);
 
         div(20,30);
         rem(30,59);
