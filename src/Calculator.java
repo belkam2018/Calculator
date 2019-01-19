@@ -21,11 +21,12 @@ public class Calculator {
     public static double rem(double num1, double num2) {
         return num1 % num2;
     }
-
+  // local main method
     public static void main(String[] args) {
         
         multiply first = new multiply();
         first(10,20);
+        substract(49,66);
 
         div(20,30);
         rem(30,59);
