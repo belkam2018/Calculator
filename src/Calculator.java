@@ -28,6 +28,8 @@ public class Calculator {
         first(10,20);
 
         div(20,30);
+        rem(30,59);
+
 
     }
 }
