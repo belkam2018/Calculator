@@ -23,6 +23,9 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
+        
+        multiply first = new multiply();
+        first(10,20);
 
     }
 }
