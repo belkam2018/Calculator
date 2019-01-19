@@ -24,5 +24,7 @@ public class Calculator {
 
     public static void main(String[] args) {
 
+        div(20,30);
+
     }
 }
