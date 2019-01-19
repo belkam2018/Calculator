@@ -27,7 +27,7 @@ public class Enum {
                 break;
 
             default:
-                System.out.println("We are not available on vacations.");
+                System.out.println("We are not available we are on vacations.");
         }
 
     }
