@@ -9,7 +9,7 @@ public class Calculator {
         return result;
         //or return num1 - num2
     }
-
+// divide method
     public static double div(double num1, double num2) {
         return num1 / num2;
     }
@@ -28,7 +28,7 @@ public class Calculator {
         first(10,20);
         substract(49,66);
         add(55,67);
-
+        first(456,676);
         div(20,30);
         rem(30,59);
 
